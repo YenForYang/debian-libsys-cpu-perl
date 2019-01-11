@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 25 Feb 2018 15:13:58 +0100
+Source: libsys-cpu-perl
+Binary: libsys-cpu-perl
+Built-For-Profiles: nobiarch nocheck nodoc
+Architecture: amd64
+Version: 0.61-3
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+Changed-By: Salvatore Bonaccorso <carnil@debian.org>
+Description:
+ libsys-cpu-perl - module for getting CPU information
+Changes:
+ libsys-cpu-perl (0.61-3) UNRELEASED; urgency=medium
+ .
+   * Update Vcs-* headers for switch to salsa.debian.org
+Checksums-Sha1:
+ 675b99c34622d4872fc2f06a98e1d6485bb3ef8f 22228 libsys-cpu-perl-dbgsym_0.61-3_amd64.deb
+ 2adefae204f86e54a53d17112f2656a456fa0046 5546 libsys-cpu-perl_0.61-3_amd64.buildinfo
+ b3257e1ff5a96fd1a947237766edb369e0b27402 12136 libsys-cpu-perl_0.61-3_amd64.deb
+Checksums-Sha256:
+ b9187b8942f177ea0f591a807ca3c2782ba93c094d431e187fb5c1358df2c2dc 22228 libsys-cpu-perl-dbgsym_0.61-3_amd64.deb
+ 4e8c8766d0e50d6f0d66588dd92f47b43ce10682e9c903b33934a489687db4c2 5546 libsys-cpu-perl_0.61-3_amd64.buildinfo
+ f47322876692afbdc4afdc83641e59a0670306c2d657d5f1ef9e538c002f3f3d 12136 libsys-cpu-perl_0.61-3_amd64.deb
+Files:
+ eaf35028a9931167f8bce0d41db95104 22228 debug optional libsys-cpu-perl-dbgsym_0.61-3_amd64.deb
+ 99d9297e418bf177d98f76a90efc0bf4 5546 perl optional libsys-cpu-perl_0.61-3_amd64.buildinfo
+ b0aadcfcd30795f8ed2c24a4da803adc 12136 perl optional libsys-cpu-perl_0.61-3_amd64.deb

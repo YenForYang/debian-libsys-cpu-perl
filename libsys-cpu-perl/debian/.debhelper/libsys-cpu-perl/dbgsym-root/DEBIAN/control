@@ -1,0 +1,12 @@
+Package: libsys-cpu-perl-dbgsym
+Source: libsys-cpu-perl
+Version: 0.61-3
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+Installed-Size: 37
+Depends: libsys-cpu-perl (= 0.61-3)
+Section: debug
+Priority: optional
+Description: debug symbols for libsys-cpu-perl
+Build-Ids: 298f03c0bbfd66a956026c738b04da63c5ff4094

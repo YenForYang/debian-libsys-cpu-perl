@@ -1,0 +1,8 @@
+c72dcf5ee82c6cb18d1d9dc7e27c7a40  usr/lib/x86_64-linux-gnu/perl5/5.28/Sys/CPU.pm
+1535d32bad7efc4da5e625e021bbb438  usr/lib/x86_64-linux-gnu/perl5/5.28/auto/Sys/CPU/CPU.so
+1544dc953f455dc795acd19886abd9eb  usr/lib/x86_64-linux-gnu/perl5/5.28/auto/Sys/CPU/CPU.so.response
+332c41716e8ec3d2cd5f7724dcce6338  usr/share/doc/libsys-cpu-perl/changelog.Debian.gz
+0bf00c1f0a1bdc019324347b0ecd2ca8  usr/share/doc/libsys-cpu-perl/changelog.gz
+7611c3f89bf26b602a46da7e9372f3f7  usr/share/doc/libsys-cpu-perl/copyright
+46160482d1e49bb25085db32a79e4558  usr/share/lintian/overrides/libsys-cpu-perl
+e3107602e75ca3210bca850ab5787383  usr/share/man/man3/Sys::CPU.3pm.gz
